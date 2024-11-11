@@ -160,7 +160,7 @@ Ecco i passi principali:
 Questo esempio dimostra come sviluppare e implementare un documento di governance in modo chiaro e strutturato.
 
 
-### Creare una Procedura di Risposta agli Incidenti**
+### Creare una Procedura di Risposta agli Incidenti
 
 Per sviluppare una procedura di risposta agli incidenti, segui questi passi:
 
