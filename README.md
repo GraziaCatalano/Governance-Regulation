@@ -274,7 +274,7 @@ Il PCI DSS si concentra sulla protezione delle transazioni con carta e la preven
 
 ______
 
-### NIST 800-53 - Controlli di Sicurezza e Privacy per Sistemi Informativi e Organizzazioni
+# NIST 800-53 - Controlli di Sicurezza e Privacy per Sistemi Informativi e Organizzazioni
 
 **Cos'è il NIST 800-53?**
 
@@ -298,7 +298,7 @@ Ogni famiglia di controlli affronta un'area specifica della sicurezza, e tra le 
    
 4. **Gestione dei Rischi**: Aiuta le organizzazioni a identificare e ridurre i rischi relativi alla sicurezza.
 
-# Implementazione di un Programma di Sicurezza Basato su NIST 800-53:
+### Implementazione di un Programma di Sicurezza Basato su NIST 800-53:
 
 Per implementare con successo un programma di sicurezza basato su NIST 800-53, le organizzazioni devono seguire alcune **best practices**:
 
@@ -308,7 +308,7 @@ Per implementare con successo un programma di sicurezza basato su NIST 800-53, l
   
 - **Monitoraggio Continuo**: È necessario un sistema di monitoraggio per identificare rapidamente i problemi di sicurezza e garantire che i controlli vengano sempre aggiornati e mantenuti in modo efficace.
 
-# NIST 800-63B: Linee Guida per l'Autenticazione Digitale
+### NIST 800-63B: Linee Guida per l'Autenticazione Digitale
 
 Un'altra pubblicazione, il **NIST 800-63B**, fornisce linee guida per la gestione delle identità digitali. Si concentra sull'autenticazione e verifica delle identità degli utenti che accedono ai sistemi e servizi digitali. Le raccomandazioni includono l'uso di fattori di autenticazione come password, biometria e token, e come gestire in modo sicuro le credenziali degli utenti.
 
