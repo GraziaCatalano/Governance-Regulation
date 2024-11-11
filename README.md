@@ -131,6 +131,9 @@ Questi framework aiutano le organizzazioni a stabilire come gestire la sicurezza
 
 Sviluppare Documenti di Governance significa creare una serie di documenti che stabiliscono come un'organizzazione gestisce la sicurezza delle informazioni, definendo le politiche, le regole, i processi e le responsabilità. Questi documenti sono fondamentali per proteggere i dati sensibili, garantire che le leggi siano rispettate e stabilire come l'organizzazione risponde a eventuali minacce o problemi di sicurezza.
 
+![957df3acd08e9884b95a28e72bd7219a](https://github.com/user-attachments/assets/d576e623-5c61-42ed-8463-113a9b789ed9)
+
+
 1. **Identificare lo scopo e l'obiettivo**: Prima di iniziare a scrivere un documento di governance, è importante definire cosa si vuole ottenere e perché è necessario.
    Ad esempio, una politica sulle password potrebbe essere necessaria per garantire l'uso di password robuste e sicure, mentre un baseline potrebbe essere necessario per stabilire un livello minimo di sicurezza per tutti i sistemi.
   
