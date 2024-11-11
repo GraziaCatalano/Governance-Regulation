@@ -5,7 +5,7 @@
 
 La cybersecurity è un campo in continua evoluzione, dove gli attori malintenzionati cercano costantemente di sfruttare le vulnerabilità nei sistemi sensibili, con l’intento di causare danni, interruzioni e rubare dati aziendali riservati. Per contrastare questa minaccia crescente, è necessario adottare un approccio completo alla governance e regolamentazione della sicurezza delle informazioni, che prevede l’adozione di politiche solide, linee guida e meccanismi di monitoraggio e enforcement rigorosi per garantire la conformità. Adottando una posizione proattiva e strategica, le organizzazioni possono ridurre i rischi dei cyber attacchi e proteggere i propri sistemi sensibili da possibili violazioni catastrofiche.
 
-# Terminologie Importanti:
+### Terminologie Importanti:
 
 - Governance: Gestire e dirigere un'organizzazione o un sistema per raggiungere i suoi obiettivi e garantire la conformità alle leggi, alle normative e agli standard.  
 - Regolamentazione: Una regola o legge imposta da un ente di governo per garantire la conformità e proteggere contro i danni.  
@@ -13,7 +13,7 @@ La cybersecurity è un campo in continua evoluzione, dove gli attori malintenzio
 
 ---
 
-### Information Security Governance
+# Information Security Governance
 
 La Governance della Sicurezza delle Informazioni è il sistema di politiche, procedure e linee guida che un'organizzazione stabilisce per proteggere i propri dati e le proprie informazioni sensibili. 
 L'obiettivo principale è garantire che i dati siano protetti da accessi non autorizzati, furti o danni, e che l'organizzazione rispetti le leggi e le normative applicabili.
@@ -40,7 +40,7 @@ La governance della sicurezza delle informazioni è un processo continuo che aiu
 
 ---
 
-### Information Security Regulation
+# Information Security Regulation
 
 La **governance** e la **regolamentazione** sono strettamente collegate nel campo della sicurezza delle informazioni, ma hanno significati distinti. 
 
@@ -79,7 +79,7 @@ Implementare una governance e regolamentazione adeguate porta numerosi vantaggi:
 
 ---
 
-### **Leggi e Normative Rilevanti**  
+# **Leggi e Normative Rilevanti**  
 
 Esistono leggi e normative specifiche che operano nell'ecosistema di governance e regolamentazione della sicurezza. 
 Queste forniscono un quadro strutturato per stabilire gli standard minimi di conformità, promuovere la responsabilità e la fiducia e incentivare approcci innovativi nella protezione dei sistemi e dei dati critici. 
@@ -95,12 +95,12 @@ Di seguito sono elencate alcune delle leggi e normative più rilevanti:
 _________
 
 
-### Information Security Frameworks
+# Information Security Frameworks
 
 Un Information Security Framework (Framework di Sicurezza delle Informazioni) è un insieme di linee guida, politiche e procedure che un'organizzazione utilizza per proteggere le sue informazioni e garantire che i suoi sistemi siano sicuri. 
 Questi framework aiutano le organizzazioni a stabilire come gestire la sicurezza delle informazioni in modo strutturato e sistematico. 
 
-# I principali componenti di un framework di sicurezza delle informazioni includono:
+### I principali componenti di un framework di sicurezza delle informazioni includono:
 
 - **Politiche**: Sono dichiarazioni formali che spiegano gli obiettivi e le linee guida dell'organizzazione in materia di sicurezza delle informazioni.
   Ad esempio, una politica potrebbe specificare come gestire le password o come trattare i dati sensibili.
@@ -120,7 +120,7 @@ Questi framework aiutano le organizzazioni a stabilire come gestire la sicurezza
 
 ---
 
-### Sviluppare Documenti di Governance
+# Sviluppare Documenti di Governance
 
 
 Sviluppare Documenti di Governance significa creare una serie di documenti che stabiliscono come un'organizzazione gestisce la sicurezza delle informazioni, definendo le politiche, le regole, i processi e le responsabilità. Questi documenti sono fondamentali per proteggere i dati sensibili, garantire che le leggi siano rispettate e stabilire come l'organizzazione risponde a eventuali minacce o problemi di sicurezza.
@@ -140,7 +140,7 @@ Sviluppare Documenti di Governance significa creare una serie di documenti che s
 
 ---
 
-### Sviluppare Documenti di Governance con Scenari Reali
+# Sviluppare Documenti di Governance con Scenari Reali
 
 Un esempio pratico di come sviluppare un documento di governance è la **politica delle password**. 
 
@@ -185,7 +185,7 @@ Le organizzazioni non sempre devono creare nuovi standard, framework o baselines
 
 ______
 
-### Governance, Risk and Compliance (GRC) 
+# Governance, Risk and Compliance (GRC) 
 
 Si tratta di un insieme di pratiche e processi che le organizzazioni utilizzano per gestire e controllare tre aree principali: 
 - **governance** (gestione),
@@ -210,7 +210,7 @@ In sintesi, **GRC** aiuta le organizzazioni a:
 
 Il tutto per operare in modo più sicuro, efficiente e legale.
 
-### Come sviluppare un programma GRC - Linee guida generiche
+# Come sviluppare un programma GRC - Linee guida generiche
 
 Si tratta del processo di creazione di un programma che gestisce la Governance, il Risk (rischio) e la Compliance (conformità) all'interno di un'organizzazione.
 
@@ -246,7 +246,7 @@ Si tratta del processo di creazione di un programma che gestisce la Governance, 
 
 ______
 
-### Privacy e Regolamenti sulla Protezione dei Dati  
+# Privacy e Regolamenti sulla Protezione dei Dati  
 
 In tutti i settori, come quello finanziario, sanitario, governativo e industriale, le normative sulla privacy e protezione dei dati sono fondamentali poiché trattano informazioni personali identificabili (PII) dei cittadini. Questi regolamenti aiutano a garantire che le informazioni personali siano gestite e conservate in modo responsabile ed etico, stabilendo fiducia, proteggendo i dati e mantenendo la conformità alle normative.
 
