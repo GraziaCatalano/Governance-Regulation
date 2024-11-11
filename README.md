@@ -1,5 +1,4 @@
 
-
 # Governance-Regulation
 
 ### Introduzione
@@ -272,4 +271,44 @@ Il GDPR si applica a tutte le aziende che operano nell'UE e trattano i dati pers
 **Standard di Sicurezza dei Dati del Settore delle Carte di Pagamento (PCI DSS)**  
 
 Il PCI DSS si concentra sulla protezione delle transazioni con carta e la prevenzione di furti e frodi. È utilizzato dalle aziende che gestiscono transazioni con carte di credito e richiede rigidi controlli di accesso alle informazioni dei titolari di carte e il monitoraggio dell'accesso non autorizzato, utilizzando misure come firewall per applicazioni web e crittografia.
+
+______
+
+### NIST 800-53 - Controlli di Sicurezza e Privacy per Sistemi Informativi e Organizzazioni
+
+**Cos'è il NIST 800-53?**
+
+Il **NIST 800-53** è una pubblicazione sviluppata dal **National Institute of Standards and Technology (NIST)** degli Stati Uniti. Si tratta di un insieme di controlli di sicurezza e privacy destinati a proteggere la triade CIA (Confidenzialità, Integrità, Disponibilità) dei sistemi informativi. Questa pubblicazione fornisce un framework che le organizzazioni possono utilizzare per migliorare la sicurezza e la privacy dei loro sistemi informativi, e per garantire la conformità a leggi, regolamenti e politiche.
+
+**Punti Chiave:**
+
+- Il NIST 800-53 offre un set completo di controlli di sicurezza e privacy per aiutare le organizzazioni a proteggere operazioni, risorse, personale e altre entità da minacce e rischi come attacchi informatici, errori umani, disastri naturali, guasti infrastrutturali e problemi legati alla privacy.
+
+- La **Versione 5** del NIST 800-53 organizza i controlli in **venti famiglie**, ognuna delle quali si concentra su una specifica area di sicurezza, come la gestione della sicurezza, la protezione della privacy e la gestione degli accessi.
+
+**Controlli di NIST 800-53:**
+
+Ogni famiglia di controlli affronta un'area specifica della sicurezza, e tra le famiglie più importanti troviamo:
+
+1. **Gestione del Programma (Program Management)**: Si concentra sull'istituzione e monitoraggio dei programmi di sicurezza e privacy a livello organizzativo.
+   
+2. **Controllo degli Accessi**: Definisce le regole per garantire che solo gli utenti autorizzati possano accedere alle risorse.
+   
+3. **Sicurezza delle Comunicazioni**: Assicura che le informazioni trasmesse siano protette durante il loro transito.
+   
+4. **Gestione dei Rischi**: Aiuta le organizzazioni a identificare e ridurre i rischi relativi alla sicurezza.
+
+# Implementazione di un Programma di Sicurezza Basato su NIST 800-53:
+
+Per implementare con successo un programma di sicurezza basato su NIST 800-53, le organizzazioni devono seguire alcune **best practices**:
+
+- **Scoperta e Catalogazione dei Dati**: Le organizzazioni devono identificare e mappare i loro asset, i flussi di dati e le vulnerabilità.
+  
+- **Struttura di Governance**: Creare una struttura di governance chiara, assegnare compiti specifici e stabilire procedure per l'implementazione e la manutenzione dei controlli di sicurezza.
+  
+- **Monitoraggio Continuo**: È necessario un sistema di monitoraggio per identificare rapidamente i problemi di sicurezza e garantire che i controlli vengano sempre aggiornati e mantenuti in modo efficace.
+
+# NIST 800-63B: Linee Guida per l'Autenticazione Digitale
+
+Un'altra pubblicazione, il **NIST 800-63B**, fornisce linee guida per la gestione delle identità digitali. Si concentra sull'autenticazione e verifica delle identità degli utenti che accedono ai sistemi e servizi digitali. Le raccomandazioni includono l'uso di fattori di autenticazione come password, biometria e token, e come gestire in modo sicuro le credenziali degli utenti.
 
