@@ -89,4 +89,95 @@ Di seguito sono elencate alcune delle leggi e normative più rilevanti:
 | **GDPR**              | Privacy e protezione dei dati | Regolamento dell'Unione Europea che stabilisce requisiti rigorosi su come le organizzazioni gestiscono e proteggono i dati personali dei cittadini UE.   |
 | **HIPAA**             | Sanità                  | Legge ufficiale degli USA per mantenere la riservatezza delle informazioni sanitarie dei cittadini.                                                     |
 | **PCI-DSS**           | Finanziario             | Definisce i requisiti tecnici e operativi per garantire il trattamento sicuro, l'archiviazione e la trasmissione dei dati delle carte di pagamento.       |
-| **GLBA**              | Finanziario             | Le aziende finanziarie devono proteggere le informazioni personali non pubbliche dei clienti, implementando programmi di sicurezza e privacy.            | 
+| **GLBA**              | Finanziario             | Le aziende finanziarie devono proteggere le informazioni personali non pubbliche dei clienti, implementando programmi di sicurezza e privacy.    
+
+_________
+
+
+### Information Security Frameworks
+
+Un Information Security Framework (Framework di Sicurezza delle Informazioni) è un insieme di linee guida, politiche e procedure che un'organizzazione utilizza per proteggere le sue informazioni e garantire che i suoi sistemi siano sicuri. 
+Questi framework aiutano le organizzazioni a stabilire come gestire la sicurezza delle informazioni in modo strutturato e sistematico. 
+
+# I principali componenti di un framework di sicurezza delle informazioni includono:
+
+- **Politiche**: Sono dichiarazioni formali che spiegano gli obiettivi e le linee guida dell'organizzazione in materia di sicurezza delle informazioni.
+  Ad esempio, una politica potrebbe specificare come gestire le password o come trattare i dati sensibili.
+  
+- **Standard**:  Definiscono requisiti specifici che devono essere soddisfatti.
+   Ad esempio, uno standard potrebbe stabilire un livello minimo di crittografia       per proteggere i dati.
+  
+- **Linee guida**: Sono raccomandazioni non vincolanti che suggeriscono come raggiungere determinati obiettivi di sicurezza.
+  Per esempio, una linea guida potrebbe suggerire di utilizzare un software antivirus aggiornato.
+  
+- **Procedure**: Sono le azioni passo per passo che devono essere seguite per implementare i vari aspetti della sicurezza.
+  
+- **Baselines (Standard di base)**: Un insieme di requisiti minimi di sicurezza che un'organizzazione o un sistema devono rispettare.
+   Ad esempio, ogni sistema potrebbe dover avere un firewall attivo o le connessioni di rete devono essere criptate.
+
+
+
+---
+
+### Sviluppare Documenti di Governance
+
+
+Sviluppare Documenti di Governance significa creare una serie di documenti che stabiliscono come un'organizzazione gestisce la sicurezza delle informazioni, definendo le politiche, le regole, i processi e le responsabilità. Questi documenti sono fondamentali per proteggere i dati sensibili, garantire che le leggi siano rispettate e stabilire come l'organizzazione risponde a eventuali minacce o problemi di sicurezza.
+
+1. **Identificare lo scopo e l'obiettivo**: Prima di iniziare a scrivere un documento di governance, è importante definire cosa si vuole ottenere e perché è necessario.
+   Ad esempio, una politica sulle password potrebbe essere necessaria per garantire l'uso di password robuste e sicure, mentre un baseline potrebbe essere necessario per stabilire un livello minimo di sicurezza per tutti i sistemi.
+  
+2. **Ricerca e revisione**: Per garantire che il documento sia completo e aggiornato, bisogna fare delle ricerche su leggi, regolamenti, e migliori pratiche. Bisogna anche rivedere i documenti esistenti, per evitare di ripetere qualcosa che è già stato fatto o che entra in conflitto con ciò che è già stato deciso.
+
+3. **Redigere il documento**: Dopo la ricerca, si scrive una bozza del documento. È importante che il testo sia chiaro, preciso e facilmente comprensibile. Un documento di governance deve essere azione orientato, cioè deve indicare cosa fare e come farlo, e deve essere allineato agli obiettivi e ai valori dell'organizzazione.
+
+4. **Revisione e approvazione**: Una volta redatto il documento, deve essere esaminato da esperti (come specialisti di sicurezza, legali, e team di compliance) per garantire che tutto sia corretto. Incorporare il loro feedback e assicurarsi che il documento sia in linea con gli obiettivi e i valori dell'organizzazione. Ottenere l'approvazione finale dai responsabili competenti.
+
+5. **Implementazione e comunicazione**: Una volta approvato, il documento va comunicato a tutte le persone coinvolte. È importante che tutti sappiano cosa ci si aspetta da loro e come applicare le nuove politiche o procedure. Spesso è necessario un programma di formazione per garantire che tutti comprendano e seguano le nuove linee guida.
+
+6. **Revisione e aggiornamento**: Infine, il documento non è definitivo. Va monitorato per verificare che venga rispettato e, se necessario, aggiornato. Questo è importante perché le minacce alla sicurezza e le normative possono cambiare, quindi i documenti di governance devono essere sempre attuali.
+
+---
+
+### Sviluppare Documenti di Governance con Scenari Reali
+
+Un esempio pratico di come sviluppare un documento di governance è la **politica delle password**. 
+
+Ecco i passi principali:
+
+1. **Definire i requisiti delle password**: Stabilire la lunghezza minima, la complessità e la scadenza delle password.
+   
+2. **Linee guida sull'uso delle password**: Definire come devono essere utilizzate le password, come vietare la condivisione e l'uso di password predefinite.
+   
+3. **Memorizzazione e trasmissione sicura**: Stabilire l'uso della crittografia per conservare le password e garantire connessioni sicure per la loro trasmissione.
+   
+4. **Cambio e reset delle password**: Stabilire quando e come devono essere cambiate le password.
+   
+5. **Comunicare la politica**: Informare i dipendenti e fornire formazione per assicurarsi che la politica venga seguita.
+   
+6. **Monitorare la conformità**: Controllare che la politica sia rispettata e aggiornarla in caso di nuove minacce o normative.
+
+Questo esempio dimostra come sviluppare e implementare un documento di governance in modo chiaro e strutturato.
+
+
+### Creare una Procedura di Risposta agli Incidenti**
+
+Per sviluppare una procedura di risposta agli incidenti, segui questi passi:
+
+1. **Definire i tipi di incidenti**: Determinare quali eventi sono considerati incidenti (accesso non autorizzato, malware, violazioni dei dati, ecc.).
+   
+2. **Definire ruoli e responsabilità**: Identificare chi è coinvolto nella risposta, come il team di risposta, il personale IT, i legali e i responsabili aziendali.
+   
+3. **Definire le procedure**: Creare una serie di passaggi dettagliati per gestire gli incidenti, dalla rilevazione alla gestione e al recupero.
+   
+4. **Comunicare le procedure**: Assicurarsi che tutte le persone coinvolte conoscano e comprendano le procedure da seguire.
+   
+5. **Aggiornare le procedure**: Rivedere regolarmente le procedure in base ai cambiamenti nei rischi o nelle normative. 
+
+Questi passaggi assicurano una gestione efficace e tempestiva degli incidenti di sicurezza.
+
+---
+
+### L'Utilizzo di Standard e Framework Esistenti
+
+Le organizzazioni non sempre devono creare nuovi standard, framework o baselines; spesso utilizzano documenti già esistenti che sono specifici per il loro settore o disciplina. Ad esempio, il settore finanziario potrebbe seguire PCI-DSS e GLBA, mentre il settore sanitario potrebbe seguire HIPAA. La scelta di quale standard o framework adottare dipende da vari fattori, tra cui requisiti normativi, obiettivi, risorse disponibili e molto altro.| 
