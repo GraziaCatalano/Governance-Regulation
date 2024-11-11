@@ -22,6 +22,9 @@ L'obiettivo principale è garantire che i dati siano protetti da accessi non aut
 
 Con l'aumento delle minacce informatiche e delle violazioni dei dati, è fondamentale che le aziende stabiliscano un framework chiaro e solido per gestire la sicurezza delle informazioni. La governance aiuta a gestire i rischi, a prevenire le violazioni e a proteggere le informazioni cruciali per il business.
 
+![48120d5b5fc7d9cb7e283b8956e6a666 (1)](https://github.com/user-attachments/assets/da99f74e-abb5-4f77-9441-67faca3e48f0)
+
+
 ### Cosa comprende la Governance della Sicurezza delle Informazioni?
 
 1. **Strategia di Sicurezza**: Definire un piano a lungo termine per proteggere i dati aziendali, allineandolo agli obiettivi complessivi dell'organizzazione.
