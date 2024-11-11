@@ -237,4 +237,11 @@ Si tratta del processo di creazione di un programma che gestisce la Governance, 
 
 9. **Rivedere e Migliorare**: Rivedere regolarmente il programma e adattarlo a nuove normative e cambiamenti.
 
-**Conclusione**: Un programma GRC efficace aiuta a gestire i rischi, garantire la conformità e proteggere l’organizzazione.
+### Esempio di Framework GRC nel Settore Finanziario**:
+
+1. **Governance**: Creazione di politiche finanziarie e nomina di responsabili per garantire la gestione efficace delle risorse e delle crisi.
+  
+2. **Gestione del Rischio**: Identificazione dei rischi (come frodi finanziarie e attacchi informatici) e attuazione di misure preventive.
+
+3. **Conformità**: Rispettare le normative del settore (come PCI DSS e GLBA) e implementare misure di sicurezza come SSL/TLS, gestione delle patch e formazione contro il phishing.
+
