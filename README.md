@@ -206,6 +206,9 @@ Si tratta di un insieme di pratiche e processi che le organizzazioni utilizzano 
 
 Vediamo ciascuna parte in modo semplice:
 
+![99f1191333d407baaa8e786ebd0ce9c0](https://github.com/user-attachments/assets/09309691-3080-4d3e-a669-62f7365d8b20)
+
+
 1. **Governance (Gestione)**: Si riferisce alla struttura e alle politiche che un'organizzazione adotta per assicurarsi che le sue attività siano condotte in modo efficace e responsabile. In pratica, riguarda come vengono prese le decisioni e come vengono gestiti i processi aziendali per raggiungere gli obiettivi e mantenere il controllo.
 
 2. **Risk (Rischio)**: Significa identificare, valutare e gestire i rischi che potrebbero danneggiare l'organizzazione. Questi rischi possono riguardare vari aspetti, come la sicurezza informatica, le operazioni aziendali o i rischi finanziari. L'obiettivo è ridurre al minimo i danni che questi rischi potrebbero causare.
@@ -261,6 +264,8 @@ In tutti i settori, come quello finanziario, sanitario, governativo e industrial
 
 **Regolamento Generale sulla Protezione dei Dati (GDPR)**  
 
+![772ddef796e37d2c2f82c1bb9b240a36](https://github.com/user-attachments/assets/e4a960e8-91d2-495e-a394-eff597760753)
+
 Il GDPR è una legge sulla protezione dei dati implementata nell'UE nel maggio 2018 per proteggere i dati personali. I punti principali includono:
 
 - È necessario ottenere il consenso prima di raccogliere i dati personali.
@@ -291,6 +296,9 @@ Il **NIST 800-53** è una pubblicazione sviluppata dal **National Institute of S
 
 **Punti Chiave:**
 
+![2d3a7efe843b31609b11e53cbc1e2719](https://github.com/user-attachments/assets/e9d4c98f-8507-485b-b224-4ba05820531d)
+
+
 - Il NIST 800-53 offre un set completo di controlli di sicurezza e privacy per aiutare le organizzazioni a proteggere operazioni, risorse, personale e altre entità da minacce e rischi come attacchi informatici, errori umani, disastri naturali, guasti infrastrutturali e problemi legati alla privacy.
 
 - La **Versione 5** del NIST 800-53 organizza i controlli in **venti famiglie**, ognuna delle quali si concentra su una specifica area di sicurezza, come la gestione della sicurezza, la protezione della privacy e la gestione degli accessi.
@@ -309,7 +317,13 @@ Ogni famiglia di controlli affronta un'area specifica della sicurezza, e tra le 
 
 ### Implementazione di un Programma di Sicurezza Basato su NIST 800-53:
 
+![43092cc2b85ee7ce4395ce6d7afd842f](https://github.com/user-attachments/assets/cd07bc4e-760a-4292-a9d2-d6076d3cebc1)
+
+
 Per implementare con successo un programma di sicurezza basato su NIST 800-53, le organizzazioni devono seguire alcune **best practices**:
+
+![8b7e0ab2ab4f7b72b59e6489cb893063](https://github.com/user-attachments/assets/899b76a1-1ccf-4403-aaa5-e1b5bd180aaa)
+
 
 - **Scoperta e Catalogazione dei Dati**: Le organizzazioni devono identificare e mappare i loro asset, i flussi di dati e le vulnerabilità.
   
@@ -347,6 +361,8 @@ ISO 27001 è uno standard internazionale che definisce i requisiti per pianifica
 - **Audit interno**: Verifica periodica dell'efficacia dell'ISMS.
   
 - **Revisione della gestione**: Revisione regolare delle performance dell'ISMS da parte della dirigenza.
+  
+![2e0517ce65aa9336144e9832fb65cce1](https://github.com/user-attachments/assets/3da51053-3511-4749-b1e2-10af2086ab85)
 
 **Benefici di ISO 27001**:
 
@@ -356,6 +372,9 @@ Un ISMS basato su ISO 27001 richiede una progettazione e un'implementazione accu
 SOC 2 è un framework di audit sviluppato dall'**American Institute of Certified Public Accountants (AICPA)**. Si concentra sull'efficacia dei controlli di sicurezza, privacy e disponibilità dei dati in relazione alla triade CIA (Confidenzialità, Integrità, Disponibilità). SOC 2 è particolarmente rilevante per i fornitori di servizi che trattano o memorizzano dati sensibili dei clienti.
 
 **Elementi Importanti di SOC 2**:
+
+![b3ce9d297ce5934620c3686b114529d0](https://github.com/user-attachments/assets/fc0045d2-2423-44f5-b415-2c9408277673)
+
 
 - **Controlli di sicurezza**: Verifica dell'efficacia dei controlli sulla riservatezza, disponibilità, integrità e privacy dei dati.
   
@@ -376,6 +395,7 @@ SOC 2 è un framework di audit sviluppato dall'**American Institute of Certified
 5. **Esecuzione dell'audit**: L'auditor esamina i controlli e conduce test per valutarne l'efficacia.
     
 6. **Rapporto finale**: L'auditor fornisce un rapporto con i risultati dell'audit e eventuali raccomandazioni di miglioramento.
+
 
 **Controlli Generali in un Audit SOC 2**:
 
