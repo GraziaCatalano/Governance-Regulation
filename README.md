@@ -60,6 +60,7 @@ Implementare una governance e regolamentazione adeguate porta numerosi vantaggi:
 
 
    Esempio: Se un’azienda segue le normative come il GDPR, è obbligata a proteggere i dati dei clienti con misure come la crittografia, riducendo così il rischio di violazioni dei dati.
+  
   ![a148517c47f4063df1a246f3ad278fd6](https://github.com/user-attachments/assets/6270b625-3ae2-41f1-8416-c0da9ec96819)
 
 - **Maggiore fiducia degli stakeholder**: Quando le aziende dimostrano di rispettare le normative di sicurezza, guadagnano la fiducia di clienti, partner, investitori e altre parti interessate. Questi stakeholders sono più propensi a fare affari con un’organizzazione che ha una solida politica di sicurezza e che prende sul serio la protezione dei dati.
