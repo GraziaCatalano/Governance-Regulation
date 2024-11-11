@@ -2,7 +2,7 @@
 
 ### Introduzione
 
-La cybersecurityè un campo in continua evoluzione, dove gli attori malintenzionati cercano costantemente di sfruttare le vulnerabilità nei sistemi sensibili, con l’intento di causare danni, interruzioni e rubare dati aziendali riservati. Per contrastare questa minaccia crescente, è necessario adottare un approccio completo alla governance e regolamentazione della sicurezza delle informazioni, che prevede l’adozione di politiche solide, linee guida e meccanismi di monitoraggio e enforcement rigorosi per garantire la conformità. Adottando una posizione proattiva e strategica, le organizzazioni possono ridurre i rischi dei cyber attacchi e proteggere i propri sistemi sensibili da possibili violazioni catastrofiche.
+La cybersecurity è un campo in continua evoluzione, dove gli attori malintenzionati cercano costantemente di sfruttare le vulnerabilità nei sistemi sensibili, con l’intento di causare danni, interruzioni e rubare dati aziendali riservati. Per contrastare questa minaccia crescente, è necessario adottare un approccio completo alla governance e regolamentazione della sicurezza delle informazioni, che prevede l’adozione di politiche solide, linee guida e meccanismi di monitoraggio e enforcement rigorosi per garantire la conformità. Adottando una posizione proattiva e strategica, le organizzazioni possono ridurre i rischi dei cyber attacchi e proteggere i propri sistemi sensibili da possibili violazioni catastrofiche.
 
 # Terminologie Importanti:
 
