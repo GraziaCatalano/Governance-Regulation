@@ -54,27 +54,27 @@ Implementare una governance e regolamentazione adeguate porta numerosi vantaggi:
 
 - **Maggiore Sicurezza**: Implementando una buona governance e regolamentazione della sicurezza, un’organizzazione riduce i rischi di attacchi informatici. Le normative impongono misure di sicurezza che aiutano a proteggere i dati da accessi non autorizzati, furti, perdite o danneggiamenti.
 
-Esempio: Se un’azienda segue le normative come il GDPR, è obbligata a proteggere i dati dei clienti con misure come la crittografia, riducendo così il rischio di violazioni dei dati.
+   Esempio: Se un’azienda segue le normative come il GDPR, è obbligata a proteggere i dati dei clienti con misure come la crittografia, riducendo così il rischio di violazioni dei dati.
 
 - **Maggiore fiducia degli stakeholder**: Quando le aziende dimostrano di rispettare le normative di sicurezza, guadagnano la fiducia di clienti, partner, investitori e altre parti interessate. Questi stakeholders sono più propensi a fare affari con un’organizzazione che ha una solida politica di sicurezza e che prende sul serio la protezione dei dati.
 
-Esempio: Se un'azienda rispetta il PCI-DSS (lo standard per la protezione dei dati delle carte di pagamento), i clienti si sentiranno più sicuri nel fare acquisti online.
+   Esempio: Se un'azienda rispetta il PCI-DSS (lo standard per la protezione dei dati delle carte di pagamento), i clienti si sentiranno più sicuri nel fare acquisti online.
   
 - **Conformità normativa**: Le leggi sulla sicurezza delle informazioni obbligano le aziende a rispettare determinati standard. Se un'azienda non segue queste leggi, può essere multata o subire danni reputazionali. Adottare una buona governance aiuta l’organizzazione a evitare multe e sanzioni legali.
 
-Esempio: Il GDPR impone alle aziende di proteggere i dati personali. Se non lo fanno, possono essere multate con fino al 4% del loro fatturato annuale.
+   Esempio: Il GDPR impone alle aziende di proteggere i dati personali. Se non lo fanno, possono essere multate con fino al 4% del loro fatturato annuale.
 
 - **Allineamento con gli obiettivi aziendali**: La governance della sicurezza aiuta le aziende a integrare la protezione dei dati con i loro obiettivi generali. Questo permette di garantire che le misure di sicurezza non solo siano efficaci, ma anche che siano economiche e in linea con la visione aziendale.
 
-Esempio: Un’azienda che adotta una strategia di sicurezza efficace può evitare interruzioni alle operazioni quotidiane, riducendo così i costi dovuti a potenziali incidenti di sicurezza.
+   Esempio: Un’azienda che adotta una strategia di sicurezza efficace può evitare interruzioni alle operazioni quotidiane, riducendo così i costi dovuti a potenziali incidenti di sicurezza.
   
 - **Decisioni più informate**: Fornisce agli amministratori la conoscenza necessaria per prendere decisioni consapevoli riguardo ai rischi della sicurezza informatica.
   
-Esempio: Grazie a un programma di governance della sicurezza, un’azienda può identificare rapidamente le vulnerabilità nel proprio sistema e decidere dove implementare le misure di protezione più urgenti. 
+   Esempio: Grazie a un programma di governance della sicurezza, un’azienda può identificare rapidamente le vulnerabilità nel proprio sistema e decidere dove implementare le misure di protezione più urgenti. 
 
 - **Vantaggio competitivo**: Essere conformi alle normative di sicurezza può dare un vantaggio competitivo. Le aziende che dimostrano di proteggere i dati dei clienti in modo rigoroso tendono ad essere preferite dai consumatori rispetto a quelle che non lo fanno. La reputazione di un'organizzazione come "sicura" può attirare più clienti.
   
-Esempio: Un'azienda che rispetta il HIPAA (normativa sanitaria negli USA) può guadagnare la fiducia di pazienti e professionisti della salute, distinguendosi dai concorrenti.
+   Esempio: Un'azienda che rispetta il HIPAA (normativa sanitaria negli USA) può guadagnare la fiducia di pazienti e professionisti della salute, distinguendosi dai concorrenti.
 
 ---
 
