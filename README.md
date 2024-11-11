@@ -5,11 +5,6 @@
 
 La cybersecurity è un campo in continua evoluzione, dove gli attori malintenzionati cercano costantemente di sfruttare le vulnerabilità nei sistemi sensibili, con l’intento di causare danni, interruzioni e rubare dati aziendali riservati. Per contrastare questa minaccia crescente, è necessario adottare un approccio completo alla governance e regolamentazione della sicurezza delle informazioni, che prevede l’adozione di politiche solide, linee guida e meccanismi di monitoraggio e enforcement rigorosi per garantire la conformità. Adottando una posizione proattiva e strategica, le organizzazioni possono ridurre i rischi dei cyber attacchi e proteggere i propri sistemi sensibili da possibili violazioni catastrofiche.
 
-### Terminologie Importanti:
-
-- Governance: Gestire e dirigere un'organizzazione o un sistema per raggiungere i suoi obiettivi e garantire la conformità alle leggi, alle normative e agli standard.  
-- Regolamentazione: Una regola o legge imposta da un ente di governo per garantire la conformità e proteggere contro i danni.  
-- Compliance (Conformità): Lo stato di aderenza alle leggi, normative e standard che si applicano a un'organizzazione o un sistema.  
 
 ---
 
