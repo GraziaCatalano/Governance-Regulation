@@ -14,7 +14,7 @@ La cybersecurity è un campo in continua evoluzione, dove gli attori malintenzio
 
 ### Information Security Governance
 
-**La Governance della Sicurezza delle Informazioni è il sistema di politiche, procedure e linee guida che un'organizzazione stabilisce per proteggere i propri dati e le proprie informazioni sensibili. 
+La Governance della Sicurezza delle Informazioni è il sistema di politiche, procedure e linee guida che un'organizzazione stabilisce per proteggere i propri dati e le proprie informazioni sensibili. 
 L'obiettivo principale è garantire che i dati siano protetti da accessi non autorizzati, furti o danni, e che l'organizzazione rispetti le leggi e le normative applicabili.
 
 ### Perché è importante?
