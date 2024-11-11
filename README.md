@@ -25,7 +25,8 @@ Con l'aumento delle minacce informatiche e delle violazioni dei dati, è fondame
 
 ### Cosa comprende la Governance della Sicurezza delle Informazioni?
 
-![48120d5b5fc7d9cb7e283b8956e6a666 (1)](https://github.com/user-attachments/assets/0dc6d266-cae7-4c2f-ae85-697d54692a2d)
+![48120d5b5fc7d9cb7e283b8956e6a666 (1)](https://github.com/user-attachments/assets/1b63bfe0-b659-4fed-8c21-8266ec0ce431)
+
 
 
 1. **Strategia di Sicurezza**: Definire un piano a lungo termine per proteggere i dati aziendali, allineandolo agli obiettivi complessivi dell'organizzazione.
