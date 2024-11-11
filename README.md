@@ -215,7 +215,7 @@ Il tutto per operare in modo più sicuro, efficiente e legale.
 
 Si tratta del processo di creazione di un programma che gestisce la Governance, il Risk (rischio) e la Compliance (conformità) all'interno di un'organizzazione.
 
-# Passaggi principali:
+### Passaggi principali:
 
 **Sviluppare un Programma GRC (Governance, Risk, Compliance)**:
 
