@@ -15,7 +15,7 @@ L'obiettivo principale è garantire che i dati siano protetti da accessi non aut
 
 ### Perché è importante?
 
-# Terminologie Importanti
+### Terminologie Importanti
 
 Governance: Gestione e direzione di un’organizzazione o sistema per raggiungere i suoi obiettivi e garantire la conformità a leggi, regolamenti e standard.
 
