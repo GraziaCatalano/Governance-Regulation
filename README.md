@@ -13,15 +13,16 @@ La cybersecurity è un campo in continua evoluzione, dove gli attori malintenzio
 La Governance della Sicurezza delle Informazioni è il sistema di politiche, procedure e linee guida che un'organizzazione stabilisce per proteggere i propri dati e le proprie informazioni sensibili. 
 L'obiettivo principale è garantire che i dati siano protetti da accessi non autorizzati, furti o danni, e che l'organizzazione rispetti le leggi e le normative applicabili.
 
-### Perché è importante?
 
-**Terminologie Importanti**
+**Terminologie Importanti:**
 
 **Governance**: Gestione e direzione di un’organizzazione o sistema per raggiungere i suoi obiettivi e garantire la conformità a leggi, regolamenti e standard.
 
-**Regolamentazione**: Regola o legge applicata da un ente governativo per garantire la conformità e proteggere da eventuali danni.
+**Regulation**: Regola o legge applicata da un ente governativo per garantire la conformità e proteggere da eventuali danni.
 
-**Conformità**: Stato di adesione a leggi, regolamenti e standard applicabili a un’organizzazione o sistema.
+**Compliance**: Stato di adesione a leggi, regolamenti e standard applicabili a un’organizzazione o sistema.
+
+### Perché è importante?
 
 Con l'aumento delle minacce informatiche e delle violazioni dei dati, è fondamentale che le aziende stabiliscano un framework chiaro e solido per gestire la sicurezza delle informazioni. La governance aiuta a gestire i rischi, a prevenire le violazioni e a proteggere le informazioni cruciali per il business.
 
