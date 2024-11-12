@@ -252,7 +252,7 @@ Si tratta del processo di creazione di un programma che gestisce la Governance, 
 
 9. **Rivedere e Migliorare**: Rivedere regolarmente il programma e adattarlo a nuove normative e cambiamenti.
 
-### Esempio di Framework GRC nel Settore Finanziario**:
+### Esempio di Framework GRC nel Settore Finanziario:
 
 1. **Governance**: Creazione di politiche finanziarie e nomina di responsabili per garantire la gestione efficace delle risorse e delle crisi.
 
