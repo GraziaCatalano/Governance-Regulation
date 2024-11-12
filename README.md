@@ -15,6 +15,14 @@ L'obiettivo principale è garantire che i dati siano protetti da accessi non aut
 
 ### Perché è importante?
 
+# Terminologie Importanti
+
+Governance: Gestione e direzione di un’organizzazione o sistema per raggiungere i suoi obiettivi e garantire la conformità a leggi, regolamenti e standard.
+
+Regolamentazione: Regola o legge applicata da un ente governativo per garantire la conformità e proteggere da eventuali danni.
+
+Conformità: Stato di adesione a leggi, regolamenti e standard applicabili a un’organizzazione o sistema.
+
 Con l'aumento delle minacce informatiche e delle violazioni dei dati, è fondamentale che le aziende stabiliscano un framework chiaro e solido per gestire la sicurezza delle informazioni. La governance aiuta a gestire i rischi, a prevenire le violazioni e a proteggere le informazioni cruciali per il business.
 
 
